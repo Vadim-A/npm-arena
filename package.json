@@ -1,0 +1,19 @@
+{
+  "name": "npm-arena",
+  "version": "1.0.0",
+  "description": "for learning NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadim-A/npm-arena.git"
+  },
+  "author": "v.a.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vadim-A/npm-arena/issues"
+  },
+  "homepage": "https://github.com/Vadim-A/npm-arena#readme"
+}
