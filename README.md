@@ -1,7 +1,7 @@
 # npm-arena
 for learning npm
 
-#Links
+# Links
 
-##webpack
+## webpack
 https://tproger.ru/translations/configure-webpack4/
