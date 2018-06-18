@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Vadim-A/npm-arena/issues"
   },
-  "homepage": "https://github.com/Vadim-A/npm-arena#readme"
+  "homepage": "https://github.com/Vadim-A/npm-arena#readme",
+  "dependencies": {
+    "webpack": "^4.12.0"
+  }
 }
